@@ -1,0 +1,1 @@
+These are CSVs of the findings for each encode.  They are equivalent to the spreadsheet mentioned in other posts, and are provided for those that do not want to touch Google products.
